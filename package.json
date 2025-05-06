@@ -1,5 +1,5 @@
 {
-  "name": "ticketai_admin_frontend",
+  "name": "ticketai_users_frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
