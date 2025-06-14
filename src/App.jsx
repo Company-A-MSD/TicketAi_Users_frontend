@@ -1,12 +1,12 @@
 import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-blue-900 min-h-screen flex flex-col items-center justify-center">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p className='text-2xl text-white'>
           This is the user frontend for TicketAi
         </p>
       
